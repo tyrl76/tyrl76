@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Contact
   <div>
-    <a href="https://github.com/Park-JE/Park-JE" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+    <a href="https://github.com/tyrl76/tyrl76" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
     <a href="https://www.notion.so/c6020e4579784837877266156af08c9d" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
-    <a href="jieun.fs@gmailc.om" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
+    <a href="tyrl76@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
   </div>
   
   <br/>
