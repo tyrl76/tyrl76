@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 (https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jieun%20Park&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Full%20Stack%20Web%20Developer&descSize=16&descAlign=86&descAlignY=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&section=header&text=Dongwon%20Lee&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Back-end%20Web%20Developer&descSize=16&descAlign=86&descAlignY=15" />
 </div>
 
 ### Tech Stack
