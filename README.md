@@ -33,10 +33,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </div>
+  
+<br/>
+  
+### Potfolio
+  <a href="https://berry-ragdoll-6a0.notion.site/Lee-Dongwon-d6c46df54cd243d7922ebef3a1c3fc9c" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br/>
 
 ### Link
   <a href="https://github.com/tyrl76/tyrl76" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="https://berry-ragdoll-6a0.notion.site/Lee-Dongwon-d6c46df54cd243d7922ebef3a1c3fc9c" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyrl76@gmail.com)](mailto:tyrl76@gmail.com)
