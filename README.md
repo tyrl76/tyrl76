@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ### Contact
   <a href="https://github.com/tyrl76/tyrl76" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="https://www.notion.so/Lee-Dongwon-d6c46df54cd243d7922ebef3a1c3fc9c" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://berry-ragdoll-6a0.notion.site/Lee-Dongwon-d6c46df54cd243d7922ebef3a1c3fc9c" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyrl76@gmail.com)](mailto:tyrl76@gmail.com)
