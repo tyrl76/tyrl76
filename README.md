@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   
 <br/>
   
-# Potfolio
-  <a href="https://berry-ragdoll-6a0.notion.site/Lee-Dongwon-d6c46df54cd243d7922ebef3a1c3fc9c" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<!-- # Potfolio
+  <a href="https://berry-ragdoll-6a0.notion.site/Lee-Dongwon-d6c46df54cd243d7922ebef3a1c3fc9c" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  -->
 
 <br/>
 
