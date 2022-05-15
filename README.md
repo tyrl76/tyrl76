@@ -14,24 +14,24 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dongwon&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Back-end%20Developer&descSize=16&descAlign=86&descAlignY=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dongwon&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Server%20Developer&descSize=16&descAlign=86&descAlignY=15" />
 </div>
 
 ### Tech Stack
 
 <div>  
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
   <br>
   <img src="https://img.shields.io/badge/Amazon&nbsp;AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/Naver&nbsp;Cloud&nbsp;Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
   
 <br/>
